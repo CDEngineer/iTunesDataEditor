@@ -1,8 +1,8 @@
 # iTunes Data Editor (For Windows)
 
-Latest update: 2018-05-17 (tested OK with iTunes 12.7.4.80 and Windows 7 Pro SP1 64-bit)
+Latest update: 2018-05-19
 
-The iTunes Data Editor is a tool to edit the "PlayedCount" value and other basic data of a track in your local iTunes library.
+The iTunes Data Editor is a tool to access your local iTunes library and edit basic track data (including the "PlayedCount" value).
 
 ## Quick Start
 
@@ -23,6 +23,6 @@ The iTunes Data Editor was written by César Daniel Mendoza Del Pino. This work 
 
 ## Release Notes
 
-### 2018-05-17
+### 2018-05-19 ( v1.0 )
 
 - Initial release.
