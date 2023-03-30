@@ -93,6 +93,9 @@ namespace CDE.iTunesDataEditor
             {
                 DataRow trackRow = trackTable.NewRow();
 
+                // IITTrack Interface Reference
+                // http://www.joshkunz.com/iTunesControl/interfaceIITTrack.html
+
                 trackRow["TrackDatabaseID"] = track.TrackDatabaseID;
                 trackRow["Name"] = track.Name;
                 trackRow["Artist"] = track.Artist;
